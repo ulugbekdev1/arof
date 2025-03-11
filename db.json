@@ -1,0 +1,1647 @@
+{
+    "chexol": [
+      {
+        "name": "Cases Apple iPhone 16 Pro Max 7 Milliard Magsafe Black",
+        "price": 169990,
+        "currency": "сум",
+        "rating": 0,
+        "color": "Black",
+        "news": true,
+        "popular": false,
+        "availability": "in stock"
+      },
+      {
+        "name": "Cases Apple iPhone 16 Pro Max 7 Milliard Magsafe Natural",
+        "price": 169990,
+        "currency": "сум",
+        "rating": 0,
+        "color": "Natural",
+        "news": false,
+        "popular": true,
+        "availability": "in stock"
+      },
+      {
+        "name": "Cases Apple iPhone 16 Pro 7 Milliard Magsafe Natural",
+        "price": 169990,
+        "currency": "сум",
+        "rating": 0,
+        "color": "Natural",
+        "news": true,
+        "popular": true,
+        "availability": "out of stock"
+      },
+      {
+        "name": "Cases Apple iPhone 16 Pro 7 Milliard Magsafe Black",
+        "price": 169990,
+        "currency": "сум",
+        "rating": 0,
+        "color": "Black",
+        "news": false,
+        "popular": false,
+        "availability": "in stock"
+      },
+      {
+        "name": "Cases Apple iPhone 16 Pro Max 7 Milliard Magsafe Black",
+        "price": 169990,
+        "currency": "сум",
+        "rating": 0,
+        "color": "Black",
+        "news": false,
+        "popular": true,
+        "availability": "out of stock"
+      },
+      {
+        "name": "Cases Apple iPhone 16 Pro Max 7 Milliard Magsafe Natural",
+        "price": 169990,
+        "currency": "сум",
+        "rating": 0,
+        "color": "Natural",
+        "news": true,
+        "popular": false,
+        "availability": "in stock"
+      },
+      {
+        "name": "Cases Apple iPhone 16 Pro 7 Milliard Magsafe Natural",
+        "price": 169990,
+        "currency": "сум",
+        "rating": 0,
+        "color": "Natural",
+        "news": false,
+        "popular": true,
+        "availability": "in stock"
+      },
+      {
+        "name": "Cases Apple iPhone 16 Pro 7 Milliard Magsafe Black",
+        "price": 169990,
+        "currency": "сум",
+        "rating": 0,
+        "color": "Black",
+        "news": true,
+        "popular": true,
+        "availability": "out of stock"
+      }
+    ],
+      "USB-cabels": [
+        {
+          "name": "USB cable Type-C to Type-C Apple Original White",
+          "id": 3446,
+          "price": 114990,
+          "currency": "сум",
+          "rating": 0,
+          "popular": true,
+          "news": false,
+          "availability": "in stock"
+        },
+        {
+          "name": "USB cable USB Type-C to Type-C (1m) Original",
+          "id": 5635,
+          "price": 99990,
+          "currency": "сум",
+          "rating": 0,
+          "popular": true,
+          "news": true,
+          "availability": "in stock"
+        },
+        {
+          "name": "USB cable Apple (Type-C) Original White",
+          "id": 4541,
+          "price": 89990,
+          "currency": "сум",
+          "rating": 0,
+          "popular": false,
+          "news": false,
+          "availability": "in stock"
+        },
+        {
+          "name": "USB cable USB Type-C Original",
+          "id": 5621,
+          "price": 29990,
+          "currency": "сум",
+          "rating": 0,
+          "popular": false,
+          "news": true,
+          "availability": "in stock"
+        },
+        {
+          "name": "USB cable Type-C 14Pro Lightning White AAA",
+          "id": 4014,
+          "price": 13490,
+          "currency": "сум",
+          "rating": 0,
+          "popular": false,
+          "news": false,
+          "availability": "out of stock"
+        },
+        {
+          "name": "USB cable Type-C 12 Redington White AAA",
+          "id": 3473,
+          "price": 11490,
+          "currency": "сум",
+          "rating": 0,
+          "popular": true,
+          "news": false,
+          "availability": "in stock"
+        },
+        {
+          "name": "USB cable USB Type-C Copy",
+          "id": 5622,
+          "price": 9990,
+          "currency": "сум",
+          "rating": 0,
+          "popular": false,
+          "news": true,
+          "availability": "in stock"
+        }
+      ],
+      "galovka": [
+        {
+          "name": "PD Adapter Samsung 65W Original Black",
+          "id": 4050,
+          "price": 379990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "out of stock",
+          "news": true,
+          "popular": true,
+          "image": "https://example.com/image10.jpg"
+        },
+        {
+          "name": "PD Adapter Samsung 45W Original Black",
+          "id": 3880,
+          "price": 319990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "in stock",
+          "news": false,
+          "popular": true,
+          "image": "https://example.com/image10.jpg"
+        },
+        {
+          "name": "Зарядное устройство Apple 20W USB-C Оригинал Белый",
+          "price": 254990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "in stock",
+          "news": false,
+          "popular": false,
+          "image": "https://example.com/image9.jpg"
+        },
+        {
+          "name": "PD Adapter Apple 20W USB-C (Asia) Original White",
+          "price": 249990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "in stock",
+          "news": false,
+          "popular": true,
+          "image": "https://example.com/image12.jpg"
+        },
+        {
+          "name": "Зарядное устройство Быстрая зарядка USB зарядное",
+          "price": 209990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "in stock",
+          "news": false,
+          "popular": true,
+          "image": "https://example.com/image5.jpg"
+        },
+        {
+          "name": "PD Adapter MECHANIC iCharge 8C, USB Charger 8",
+          "price": 199990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "in stock",
+          "news": false,
+          "popular": true,
+          "image": "https://example.com/image6.jpg"
+        },
+        {
+          "name": "Зарядное устройство Samsung 25W Оригинал",
+          "price": 129990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "in stock",
+          "news": true,
+          "popular": false,
+          "image": "https://example.com/image5.jpg"
+        },
+        {
+          "name": "Зарядное устройство Samsung 25W Белый",
+          "price": 129990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "in stock",
+          "news": false,
+          "popular": true,
+          "image": "https://example.com/image4.jpg"
+        },
+        {
+          "name": "PD Adapter Xiaomi Mi 37W Dual-Port Car Charger",
+          "price": 114990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "in stock",
+          "news": false,
+          "popular": false,
+          "image": "https://example.com/image7.jpg"
+        },
+        {
+          "name": "PD Adapter Mi 33W White AAA",
+          "id": 5620,
+          "price": 89990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "in stock",
+          "news": false,
+          "popular": true,
+          "image": "https://example.com/image3.jpg"
+        },
+        {
+          "name": "PD Adapter Apple 20W USB-C White AAA",
+          "id": 4089,
+          "price": 42990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "out of stock",
+          "news": true,
+          "popular": false,
+          "image": "https://example.com/image6.jpg"
+        },
+        {
+          "name": "PD Adapter Mi 67W White AAA",
+          "id": 4112,
+          "price": 39990,
+          "currency": "сум",
+          "rating": 0,
+          "availability": "in stock",
+          "news": false,
+          "popular": true,
+          "image": "https://example.com/image5.jpg"
+        }
+      ],
+      
+        "kalonka": [
+          {
+            "name": "Speaker Bluetooth NDR-1010s karaoke Original",
+            "price": 1410990,
+            "currency": "сум",
+            "rating": 0,
+            "availability": "out of stock",
+            "news": true,
+            "popular": false,
+            "image": "https://example.com/images/ndr-1010s.jpg"
+          },
+          {
+            "name": "Speaker Bluetooth NDR-1022 karaoke Original Black",
+            "price": 1280990,
+            "currency": "сум",
+            "rating": 0,
+            "availability": "out of stock",
+            "news": false,
+            "popular": true,
+            "image": "https://example.com/images/ndr-1022.jpg"
+          },
+          {
+            "name": "Speaker Avcrowns CH-126, with two wireless",
+            "price": 1099990,
+            "currency": "сум",
+            "rating": 0,
+            "availability": "out of stock",
+            "news": true,
+            "popular": false,
+            "image": "https://example.com/images/ch-126.jpg"
+          },
+          {
+            "name": "Speaker Portable wireless speaker NDR-P15 Original",
+            "price": 799990,
+            "currency": "сум",
+            "rating": 0,
+            "availability": "in stock",
+            "news": false,
+            "popular": true,
+            "image": "https://example.com/images/ndr-p15.jpg"
+          },
+          {
+            "name": "Speaker Portable wireless speaker NDR-A55 Original",
+            "price": 699990,
+            "currency": "сум",
+            "rating": 0,
+            "availability": "in stock",
+            "news": true,
+            "popular": false,
+            "image": "https://example.com/images/ndr-a55.jpg"
+          },
+          {
+            "name": "Speaker Portable wireless speaker NDR-V12 Original",
+            "price": 599990,
+            "currency": "сум",
+            "rating": 0,
+            "availability": "in stock",
+            "news": false,
+            "popular": true,
+            "image": "https://example.com/images/ndr-v12.jpg"
+          },
+          {
+            "name": "Speaker Portable wireless speaker NDR-P12 Original",
+            "price": 599990,
+            "currency": "сум",
+            "rating": 0,
+            "availability": "in stock",
+            "news": true,
+            "popular": false,
+            "image": "https://example.com/images/ndr-p12.jpg"
+          },
+          {
+            "name": "Speaker Portable wireless speaker NDR-P44 Original",
+            "price": 159990,
+            "currency": "сум",
+            "rating": 0,
+            "availability": "in stock",
+            "news": false,
+            "popular": true,
+            "image": "https://example.com/images/ndr-p44.jpg"
+          },
+          {
+            "name": "Speaker Portable wireless speaker NDR-P55 Original",
+            "price": 159990,
+            "currency": "сум",
+            "rating": 0,
+            "availability": "in stock",
+            "news": true,
+            "popular": false,
+            "image": "https://example.com/images/ndr-p55.jpg"
+          }
+        ],  
+        
+          "fleshka": [
+            {
+              "name": "Memory card SanDisk Ultra microSDHC UHS-1 Original",
+              "price": 199990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "in stock",
+              "news": true,
+              "popular": false,
+              "image": "https://example.com/images/sandisk-ultra-uhs1-199990.jpg"
+            },
+            {
+              "name": "Memory card SanDisk Ultra microSDHC UHS-1 Original",
+              "price": 109990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "in stock",
+              "news": false,
+              "popular": true,
+              "image": "https://example.com/images/sandisk-ultra-uhs1-109990.jpg"
+            },
+            {
+              "name": "Memory card Sandisk Cruzer Glide 3.0 Original",
+              "price": 109990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "in stock",
+              "news": true,
+              "popular": false,
+              "image": "https://example.com/images/sandisk-cruzer-glide.jpg"
+            },
+            {
+              "name": "Memory card Sandisk Ultra Flair 3.0 Original 128GB",
+              "price": 109990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "in stock",
+              "news": false,
+              "popular": true,
+              "image": "https://example.com/images/sandisk-ultra-flair-128gb.jpg"
+            },
+            {
+              "name": "Memory card Sandisk Ultra Flair 3.0 Original 64GB",
+              "price": 74990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "in stock",
+              "news": true,
+              "popular": false,
+              "image": "https://example.com/images/sandisk-ultra-flair-64gb.jpg"
+            },
+            {
+              "name": "Memory card Sandisk Cruzer Glide 3.0 Original 64GB",
+              "price": 69990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "in stock",
+              "news": false,
+              "popular": true,
+              "image": "https://example.com/images/sandisk-cruzer-glide-64gb.jpg"
+            },
+            {
+              "name": "Memory card HP USB 2.3/3.0 Original Silver 128GB",
+              "price": 59990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "out of stock",
+              "news": true,
+              "popular": false,
+              "image": "https://example.com/images/hp-usb-128gb.jpg"
+            },
+            {
+              "name": "Memory card Samsung USB 3.0 Original Silver 128GB",
+              "price": 59990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "out of stock",
+              "news": false,
+              "popular": true,
+              "image": "https://example.com/images/samsung-usb-128gb.jpg"
+            },
+            {
+              "name": "Memory card SanDisk Ultra microSDHC UHS-1 Original 64GB",
+              "price": 59990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "in stock",
+              "news": true,
+              "popular": false,
+              "image": "https://example.com/images/sandisk-ultra-64gb.jpg"
+            },
+            {
+              "name": "Memory card SanDisk Ultra Flair 3.0 Original 32GB",
+              "price": 59990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "in stock",
+              "news": false,
+              "popular": true,
+              "image": "https://example.com/images/sandisk-ultra-flair-32gb.jpg"
+            },
+            {
+              "name": "Memory card SanDisk Ultra microSDHC UHS-1 Original 32GB",
+              "price": 54990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "in stock",
+              "news": true,
+              "popular": false,
+              "image": "https://example.com/images/sandisk-ultra-32gb.jpg"
+            },
+            {
+              "name": "Memory card SanDisk Ultra Flair 3.0 Original 16GB",
+              "price": 54990,
+              "currency": "сум",
+              "rating": 0,
+              "availability": "in stock",
+              "news": false,
+              "popular": true,
+              "image": "https://example.com/images/sandisk-ultra-flair-16gb.jpg"
+            }
+          ],  
+            "power_banks": [
+              {
+                "name": "Power Bank Green Lion Monaco Magsafe, 20 000mAh",
+                "price": 504990,
+                "currency": "сум",
+                "rating": 0,
+                "availability": "in stock",
+                "news": true,
+                "popular": false,
+                "image": "https://example.com/images/green-lion-monaco-20000.jpg"
+              },
+              {
+                "name": "Power Bank Green Lion Monaco Magsafe, 20 000mAh",
+                "price": 504990,
+                "currency": "сум",
+                "rating": 0,
+                "availability": "in stock",
+                "news": false,
+                "popular": true,
+                "image": "https://example.com/images/green-lion-monaco-20000.jpg"
+              },
+              {
+                "name": "Power Bank Green Lion Monaco Magsafe, 10 000mAh",
+                "price": 444990,
+                "currency": "сум",
+                "rating": 0,
+                "availability": "in stock",
+                "news": true,
+                "popular": false,
+                "image": "https://example.com/images/green-lion-monaco-10000.jpg"
+              },
+              {
+                "name": "Power Bank Green Lion Monaco Magsafe, 10 000mAh",
+                "price": 419990,
+                "currency": "сум",
+                "rating": 0,
+                "availability": "in stock",
+                "news": false,
+                "popular": true,
+                "image": "https://example.com/images/green-lion-monaco-10000.jpg"
+              },
+              {
+                "name": "Power Bank Green Lion 10000mAh Monaco MagSafe",
+                "price": 419990,
+                "currency": "сум",
+                "rating": 0,
+                "availability": "in stock",
+                "news": true,
+                "popular": false,
+                "image": "https://example.com/images/green-lion-monaco-magsafe.jpg"
+              },
+              {
+                "name": "Power Bank Green Lion MagSafe Integrated Power",
+                "price": 399990,
+                "currency": "сум",
+                "rating": 0,
+                "availability": "in stock",
+                "news": false,
+                "popular": true,
+                "image": "https://example.com/images/green-lion-magsafe-integrated.jpg"
+              },
+              {
+                "name": "Power Bank Green Lion Monte Carlo 10 000mAh",
+                "price": 369990,
+                "currency": "сум",
+                "rating": 0,
+                "availability": "in stock",
+                "news": true,
+                "popular": false,
+                "image": "https://example.com/images/green-lion-monte-carlo-10000.jpg"
+              },
+              {
+                "name": "Power Bank Green Lion Monte Carlo 10 000mAh",
+                "price": 369990,
+                "currency": "сум",
+                "rating": 0,
+                "availability": "in stock",
+                "news": false,
+                "popular": true,
+                "image": "https://example.com/images/green-lion-monte-carlo-10000.jpg"
+              },
+              {
+                "name": "Power Bank Green Lion 10 000mAh Milton Black",
+                "price": 364990,
+                "currency": "сум",
+                "rating": 0,
+                "availability": "in stock",
+                "news": true,
+                "popular": false,
+                "image": "https://example.com/images/green-lion-milton-black.jpg"
+              },
+              {
+                "name": "Power Bank Green Lion 10 000mAh Milton Natural",
+                "price": 364990,
+                "currency": "сум",
+                "rating": 0,
+                "availability": "in stock",
+                "news": false,
+                "popular": true,
+                "image": "https://example.com/images/green-lion-milton-natural.jpg"
+              }
+            ],      
+              "smart_watches": [
+                {
+                  "name": "Smart Watch Cmf Pro 2 Original",
+                  "id": 5698,
+                  "price": 899990,
+                  "currency": "сум",
+                  "rating": 0,
+                  "availability": "in stock",
+                  "news": true,
+                  "popular": true,
+                  "image": "https://example.com/images/cmf-pro-2.jpg"
+                },
+                {
+                  "name": "Smart Watch Porodo Kids 4G Smart Watch Original",
+                  "price": 719990,
+                  "currency": "сум",
+                  "rating": 0,
+                  "availability": "out of stock",
+                  "news": false,
+                  "popular": true,
+                  "image": "https://example.com/images/porodo-kids-4g.jpg"
+                },
+                {
+                  "name": "Smart Watch Xiaomi Smart Band 7 Pro",
+                  "price": 689990,
+                  "currency": "сум",
+                  "rating": 0,
+                  "availability": "out of stock",
+                  "news": false,
+                  "popular": true,
+                  "image": "https://example.com/images/xiaomi-band-7-pro.jpg"
+                },
+                {
+                  "name": "Smart Watch Signature Green Lion with AMOLED",
+                  "price": 519990,
+                  "currency": "сум",
+                  "rating": 0,
+                  "availability": "out of stock",
+                  "news": false,
+                  "popular": false,
+                  "image": "https://example.com/images/green-lion-amoled.jpg"
+                },
+                {
+                  "name": "Smart Watch Redmi Watch 5 Lite Original Black",
+                  "price": 519990,
+                  "currency": "сум",
+                  "rating": 0,
+                  "availability": "in stock",
+                  "news": true,
+                  "popular": false,
+                  "image": "https://example.com/images/redmi-watch-5-lite.jpg"
+                },
+                {
+                  "name": "Smart Watch Signature Green Lion с AMOLED",
+                  "price": 519900,
+                  "currency": "сум",
+                  "rating": 0,
+                  "availability": "out of stock",
+                  "news": false,
+                  "popular": false,
+                  "image": "https://example.com/images/green-lion-amoled-2.jpg"
+                },
+                {
+                  "name": "Smart Watch Green Lion Ultimate 10, 46mm Черный",
+                  "price": 0,
+                  "currency": "сум",
+                  "rating": 0,
+                  "availability": "in stock",
+                  "news": true,
+                  "popular": false,
+                  "image": "https://example.com/images/green-lion-ultimate-46-black.jpg"
+                },
+                {
+                  "name": "Smart Watch Green Lion Ultimate 10, 46mm Розовый",
+                  "price": 0,
+                  "currency": "сум",
+                  "rating": 0,
+                  "availability": "in stock",
+                  "news": false,
+                  "popular": true,
+                  "image": "https://example.com/images/green-lion-ultimate-46-pink.jpg"
+                },
+                {
+                  "name": "Smart Watch Xiaomi Mi Band 8 Original Black",
+                  "price": 0,
+                  "currency": "сум",
+                  "rating": 0,
+                  "availability": "in stock",
+                  "news": true,
+                  "popular": true,
+                  "image": "https://example.com/images/xiaomi-mi-band-8.jpg"
+                },
+                {
+                  "name": "Smart Watch Carlos Santos Green Lion Hublot дизайн",
+                  "price": 0,
+                  "currency": "сум",
+                  "rating": 0,
+                  "availability": "in stock",
+                  "news": false,
+                  "popular": false,
+                  "image": "https://example.com/images/green-lion-hublot.jpg"
+                },
+                {
+                  "name": "Smart Watch Green Lion Ultimate 10, 42mm Розовый",
+                  "price": 0,
+                  "currency": "сум",
+                  "rating": 0,
+                  "availability": "in stock",
+                  "news": false,
+                  "popular": true,
+                  "image": "https://example.com/images/green-lion-ultimate-42-pink.jpg"
+                }
+              ],         
+                "airpods": [
+                  {
+                    "name": "AirPods EarBuds Pro 2 Green Lion Original White",
+                    "id": 4104,
+                    "price": 344990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "out of stock",
+                    "news": true,
+                    "popular": true,
+                    "image": "https://example.com/images/earbuds-pro-2-white.jpg"
+                  },
+                  {
+                    "name": "AirPods EarBuds 3 Green Lion Original Black",
+                    "id": 4074,
+                    "price": 319990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "in stock",
+                    "news": true,
+                    "popular": false,
+                    "image": "https://example.com/images/earbuds-3-black.jpg"
+                  },
+                  {
+                    "name": "AirPods EarBuds 2 Green Lion Original White",
+                    "price": 259990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "out of stock",
+                    "news": false,
+                    "popular": true,
+                    "image": "https://example.com/images/earbuds-2-white.jpg"
+                  },
+                  {
+                    "name": "AirPods Green Lion Queen, набор микросхем JL6983",
+                    "price": 239990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "in stock",
+                    "news": true,
+                    "popular": true,
+                    "image": "https://example.com/images/green-lion-queen.jpg"
+                  },
+                  {
+                    "name": "AirPods Green Lion Queen's, JL6983 Chipset, Bluetooth",
+                    "price": 219990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "in stock",
+                    "news": false,
+                    "popular": false,
+                    "image": "https://example.com/images/green-lion-queens.jpg"
+                  },
+                  {
+                    "name": "AirPods Green Lion Queen's, JL6983 Chipset, Bluetooth",
+                    "price": 219990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "out of stock",
+                    "news": false,
+                    "popular": false,
+                    "image": "https://example.com/images/green-lion-queens-out.jpg"
+                  },
+                  {
+                    "name": "AirPods A9 Pro ANC/ENC, with touch screen Black",
+                    "price": 119990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "in stock",
+                    "news": true,
+                    "popular": false,
+                    "image": "https://example.com/images/a9-pro-black.jpg"
+                  },
+                  {
+                    "name": "AirPods Max Black AAA",
+                    "id": 4524,
+                    "price": 117990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "out of stock",
+                    "news": false,
+                    "popular": true,
+                    "image": "https://example.com/images/airpods-max-black.jpg"
+                  },
+                  {
+                    "name": "AirPods Blue Spectrum V-33 Original",
+                    "id": 5693,
+                    "price": 114990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "out of stock",
+                    "news": false,
+                    "popular": false,
+                    "image": "https://example.com/images/blue-spectrum-v33.jpg"
+                  },
+                  {
+                    "name": "AirPods A9 Pro ANC/ENC, with touch screen White",
+                    "price": 114990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "in stock",
+                    "news": false,
+                    "popular": true,
+                    "image": "https://example.com/images/a9-pro-white.jpg"
+                  },
+                  {
+                    "name": "AirPods ANC White AAA",
+                    "id": 4373,
+                    "price": 99990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "in stock",
+                    "news": false,
+                    "popular": false,
+                    "image": "https://example.com/images/anc-white.jpg"
+                  },
+                  {
+                    "name": "AirPods EarBuds J15 Original",
+                    "id": 5623,
+                    "price": 94990,
+                    "currency": "сум",
+                    "rating": 0,
+                    "availability": "in stock",
+                    "news": false,
+                    "popular": false,
+                    "image": "https://example.com/images/earbuds-j15.jpg"
+                  }
+                ],
+                  "safety_glass": [
+                    {
+                      "name": "Safety Honor X9b Full-Glue Original",
+                      "id": 5843,
+                      "price": 19990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": true,
+                      "popular": false,
+                      "image": "https://example.com/images/honor-x9b-full-glue.jpg"
+                    },
+                    {
+                      "name": "Safety Huawei Honor X9a Full-Glue Original",
+                      "id": 5845,
+                      "price": 19990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": true,
+                      "popular": true,
+                      "image": "https://example.com/images/honor-x9a-full-glue.jpg"
+                    },
+                    {
+                      "name": "Safety Huawei Honor X9a UV Glass Original",
+                      "id": 5844,
+                      "price": 16990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": false,
+                      "popular": true,
+                      "image": "https://example.com/images/honor-x9a-uv-glass.jpg"
+                    },
+                    {
+                      "name": "Safety Xiaomi Redmi 10/Poco M3 Pro/Redmi Note",
+                      "price": 9990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": false,
+                      "popular": false,
+                      "image": "https://example.com/images/redmi-10-poco-m3.jpg"
+                    },
+                    {
+                      "name": "Safety Samsung Galaxy A14 4G (A145B)/Galaxy A22 4G",
+                      "price": 9990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": false,
+                      "popular": false,
+                      "image": "https://example.com/images/galaxy-a14-a22.jpg"
+                    },
+                    {
+                      "name": "Safety Samsung Galaxy A25 5G (A256E) Privacy Original",
+                      "price": 9990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": true,
+                      "popular": false,
+                      "image": "https://example.com/images/galaxy-a25-privacy.jpg"
+                    },
+                    {
+                      "name": "Safety Samsung Galaxy A54 5G (A546E)/Galaxy S23 FE",
+                      "price": 9990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": false,
+                      "popular": true,
+                      "image": "https://example.com/images/galaxy-a54-s23-fe.jpg"
+                    },
+                    {
+                      "name": "Safety Apple iPhone 15 Pro Max Privacy Original",
+                      "price": 9990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": false,
+                      "popular": true,
+                      "image": "https://example.com/images/iphone-15-pro-max-privacy.jpg"
+                    },
+                    {
+                      "name": "Safety Privacy Samsung Galaxy A02 (A022G)/Galaxy",
+                      "price": 9990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": false,
+                      "popular": false,
+                      "image": "https://example.com/images/galaxy-a02-privacy.jpg"
+                    },
+                    {
+                      "name": "Safety Samsung Galaxy A05s (A057F) Privacy Original",
+                      "price": 9990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": false,
+                      "popular": false,
+                      "image": "https://example.com/images/galaxy-a05s-privacy.jpg"
+                    },
+                    {
+                      "name": "Safety Xiaomi Redmi 13C | Samsung Galaxy A05",
+                      "price": 9990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": false,
+                      "popular": false,
+                      "image": "https://example.com/images/redmi-13c-galaxy-a05.jpg"
+                    },
+                    {
+                      "name": "Safety Samsung Galaxy A06 (A065F) Privacy Original",
+                      "price": 9990,
+                      "currency": "сум",
+                      "rating": 0,
+                      "availability": "in stock",
+                      "news": false,
+                      "popular": false,
+                      "image": "https://example.com/images/galaxy-a06-privacy.jpg"
+                    }
+                  ],    
+                    "car_chargers": [
+                      {
+                        "name": "Car Charger Green Lion FM Retractable 50W Car",
+                        "price": 299990,
+                        "currency": "сум",
+                        "rating": 0,
+                        "availability": "in stock",
+                        "news": true,
+                        "popular": true,
+                        "image": "https://example.com/images/green-lion-fm-retractable-50w.jpg"
+                      },
+                      {
+                        "name": "Car Charger Green Lion Retractable 96W Car",
+                        "price": 259990,
+                        "currency": "сум",
+                        "rating": 0,
+                        "availability": "in stock",
+                        "news": true,
+                        "popular": false,
+                        "image": "https://example.com/images/green-lion-retractable-96w.jpg"
+                      },
+                      {
+                        "name": "Car Charger Green Lion 120W with Flexible Charging",
+                        "price": 229990,
+                        "currency": "сум",
+                        "rating": 0,
+                        "availability": "in stock",
+                        "news": false,
+                        "popular": true,
+                        "image": "https://example.com/images/green-lion-120w-flexible.jpg"
+                      },
+                      {
+                        "name": "Car Charger Green Lion 4 In 1 Car Charger With",
+                        "price": 219990,
+                        "currency": "сум",
+                        "rating": 0,
+                        "availability": "in stock",
+                        "news": false,
+                        "popular": false,
+                        "image": "https://example.com/images/green-lion-4-in-1.jpg"
+                      },
+                      {
+                        "name": "Car Charger Green Lion Multiport 90W, PD 30W, USB",
+                        "price": 204990,
+                        "currency": "сум",
+                        "rating": 0,
+                        "availability": "in stock",
+                        "news": false,
+                        "popular": true,
+                        "image": "https://example.com/images/green-lion-multiport-90w.jpg"
+                      },
+                      {
+                        "name": "Car Charger Green Lion Retractable 90W, Lightning",
+                        "price": 204990,
+                        "currency": "сум",
+                        "rating": 0,
+                        "availability": "in stock",
+                        "news": false,
+                        "popular": false,
+                        "image": "https://example.com/images/green-lion-retractable-90w-lightning.jpg"
+                      },
+                      {
+                        "name": "Car Charger Green Lion 50W, Maximum Power",
+                        "price": 204000,
+                        "currency": "сум",
+                        "rating": 0,
+                        "availability": "in stock",
+                        "news": false,
+                        "popular": false,
+                        "image": "https://example.com/images/green-lion-50w-maximum.jpg"
+                      },
+                      {
+                        "name": "Car Charger Green Lion 45W PD, Lightning Cable",
+                        "price": 164990,
+                        "currency": "сум",
+                        "rating": 0,
+                        "availability": "in stock",
+                        "news": false,
+                        "popular": false,
+                        "image": "https://example.com/images/green-lion-45w-pd.jpg"
+                      },
+                      {
+                        "name": "Car Charger Green Lion Retractable 30W, Telescopic",
+                        "price": 94990,
+                        "currency": "сум",
+                        "rating": 0,
+                        "availability": "in stock",
+                        "news": false,
+                        "popular": false,
+                        "image": "https://example.com/images/green-lion-retractable-30w.jpg"
+                      },
+                      {
+                        "name": "Car Charger Green Lion Dual PD & QC 3.0 50W, Input",
+                        "price": 69990,
+                        "currency": "сум",
+                        "rating": 0,
+                        "availability": "in stock",
+                        "news": false,
+                        "popular": true,
+                        "image": "https://example.com/images/green-lion-dual-pd-qc-50w.jpg"
+                      }
+                    ],   
+                      "holders": [
+                        {
+                          "name": "Holder Green Lion Magsafe Suction Holder Black",
+                          "price": 249990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "in stock",
+                          "news": true,
+                          "popular": true,
+                          "image": "https://example.com/images/green-lion-magsafe-suction-black.jpg"
+                        },
+                        {
+                          "name": "Holder Halo MagSafe 2 Black (ID: 5758)",
+                          "price": 189990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "in stock",
+                          "news": false,
+                          "popular": true,
+                          "image": "https://example.com/images/halo-magsafe-2-black.jpg"
+                        },
+                        {
+                          "name": "Holder Green Lion 2 in1 MagFlex Wireless Car",
+                          "price": 169990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "in stock",
+                          "news": true,
+                          "popular": false,
+                          "image": "https://example.com/images/green-lion-2in1-magflex.jpg"
+                        },
+                        {
+                          "name": "Holder Green Lion Flexi Mag Pro Car Phone Holder With",
+                          "price": 149990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "in stock",
+                          "news": false,
+                          "popular": true,
+                          "image": "https://example.com/images/green-lion-flexi-mag-pro.jpg"
+                        },
+                        {
+                          "name": "Holder Green Lion 2 in1 MagFlex Black (ID: 5800)",
+                          "price": 124990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "out of stock",
+                          "news": false,
+                          "popular": false,
+                          "image": "https://example.com/images/green-lion-2in1-magflex-black.jpg"
+                        },
+                        {
+                          "name": "Holder Green Lion MagPlus Phone Holder for iPhone 12+",
+                          "price": 109990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "in stock",
+                          "news": false,
+                          "popular": false,
+                          "image": "https://example.com/images/green-lion-magplus-iphone12.jpg"
+                        },
+                        {
+                          "name": "Holder Green Lion Rotatable MagSafe Holder, Secure &",
+                          "price": 104990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "out of stock",
+                          "news": false,
+                          "popular": false,
+                          "image": "https://example.com/images/green-lion-rotatable-magsafe.jpg"
+                        },
+                        {
+                          "name": "Holder Green Lion Foldable MagSafe Car Holder",
+                          "price": 104990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "in stock",
+                          "news": false,
+                          "popular": true,
+                          "image": "https://example.com/images/green-lion-foldable-magsafe.jpg"
+                        },
+                        {
+                          "name": "Holder Green Lion MagHold 360° Car Mount Black",
+                          "price": 104990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "in stock",
+                          "news": false,
+                          "popular": false,
+                          "image": "https://example.com/images/green-lion-maghold-360-black.jpg"
+                        },
+                        {
+                          "name": "Holder Green Lion GLH10 MagSafe, Flexible Design",
+                          "price": 79990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "in stock",
+                          "news": false,
+                          "popular": false,
+                          "image": "https://example.com/images/green-lion-glh10-magsafe.jpg"
+                        },
+                        {
+                          "name": "Holder MagSef C8 magnetic car holder for phone",
+                          "price": 64990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "in stock",
+                          "news": false,
+                          "popular": false,
+                          "image": "https://example.com/images/magsef-c8-magnetic.jpg"
+                        },
+                        {
+                          "name": "Holder H-CT139 Magnetic car holder for phone",
+                          "price": 54990,
+                          "currency": "сум",
+                          "rating": 0,
+                          "availability": "in stock",
+                          "news": false,
+                          "popular": true,
+                          "image": "https://example.com/images/h-ct139-magnetic.jpg"
+                        }
+                      ],
+                      
+                        "fresheners": [
+                          {
+                            "name": "Car air freshener Areon GEL",
+                            "price": 59990,
+                            "currency": "сум",
+                            "rating": 0,
+                            "availability": "in stock",
+                            "new": true,
+                            "popular": true
+                          },
+                          {
+                            "name": "Humidifier for car, home, USB aroma",
+                            "price": 54990,
+                            "currency": "сум",
+                            "rating": 0,
+                            "availability": "in stock",
+                            "new": true,
+                            "popular": false
+                          },
+                          {
+                            "name": "Air freshener 'LOREVA' for car",
+                            "price": 49990,
+                            "currency": "сум",
+                            "rating": 0,
+                            "availability": "in stock",
+                            "new": false,
+                            "popular": true
+                          },
+                          {
+                            "name": "Air freshener 'LOREVA' for home",
+                            "price": 31990,
+                            "currency": "сум",
+                            "rating": 0,
+                            "availability": "in stock",
+                            "new": false,
+                            "popular": false
+                          },
+                          {
+                            "name": "Sameeli air freshener",
+                            "price": 29990,
+                            "currency": "сум",
+                            "rating": 0,
+                            "availability": "in stock",
+                            "new": true,
+                            "popular": true
+                          },
+                          {
+                            "name": "Sameeli home and car freshener",
+                            "price": 29990,
+                            "currency": "сум",
+                            "rating": 0,
+                            "availability": "in stock",
+                            "new": false,
+                            "popular": true
+                          },
+                          {
+                            "name": "Jello home and car freshener",
+                            "price": 29990,
+                            "currency": "сум",
+                            "rating": 0,
+                            "availability": "in stock",
+                            "new": true,
+                            "popular": false
+                          }
+                        ],
+                        
+                          "planshet": [
+                            {
+                              "name": "KT-7 Max Android tablet, 6/256 GB, IPS screen",
+                              "price": 849990,
+                              "currency": "сум",
+                              "rating": 0,
+                              "availability": "in stock",
+                              "new": true,
+                              "popular": true
+                            },
+                            {
+                              "name": "Smart tablet G-Vill G333 6/128 GB Original",
+                              "price": 449990,
+                              "currency": "сум",
+                              "rating": 0,
+                              "availability": "in stock",
+                              "new": true,
+                              "popular": false
+                            },
+                            {
+                              "name": "Smart tablet G-Vill G333 6/128 GB Original Pink",
+                              "price": 449990,
+                              "currency": "сум",
+                              "rating": 0,
+                              "availability": "in stock",
+                              "new": false,
+                              "popular": true
+                            },
+                            {
+                              "name": "Smart tablet G-Vill G555 6/128 GB Original Blue",
+                              "price": 449990,
+                              "currency": "сум",
+                              "rating": 0,
+                              "availability": "in stock",
+                              "new": true,
+                              "popular": true
+                            },
+                            {
+                              "name": "Smart tablet G-Vill G333 6/128 GB Original Blue",
+                              "price": 449990,
+                              "currency": "сум",
+                              "rating": 0,
+                              "availability": "in stock",
+                              "new": false,
+                              "popular": false
+                            },
+                            {
+                              "name": "Smart tablet G-Vill G444 6/128 GB Original Blue",
+                              "price": 449990,
+                              "currency": "сум",
+                              "rating": 0,
+                              "availability": "in stock",
+                              "new": false,
+                              "popular": true
+                            },
+                            {
+                              "name": "Smart tablet G-Vill G555 6/128 GB Original Yellow",
+                              "price": 449990,
+                              "currency": "сум",
+                              "rating": 0,
+                              "availability": "in stock",
+                              "new": true,
+                              "popular": false
+                            },
+                            {
+                              "name": "Smart tablet G-Vill G555 6/128 GB Original Red",
+                              "price": 449990,
+                              "currency": "сум",
+                              "rating": 0,
+                              "availability": "in stock",
+                              "new": false,
+                              "popular": true
+                            },
+                            {
+                              "name": "Smart tablet G-Vill G555 6/128 GB Original Pink",
+                              "price": 449990,
+                              "currency": "сум",
+                              "rating": 0,
+                              "availability": "in stock",
+                              "new": true,
+                              "popular": false
+                            },
+                            {
+                              "name": "Smart tablet G-Vill G444 6/128 GB Original Orange",
+                              "price": 449990,
+                              "currency": "сум",
+                              "rating": 0,
+                              "availability": "in stock",
+                              "new": false,
+                              "popular": true
+                            },
+                            {
+                              "name": "Smart tablet G-Vill G444 6/128 GB Original Pink",
+                              "price": 449990,
+                              "currency": "сум",
+                              "rating": 0,
+                              "availability": "in stock",
+                              "new": true,
+                              "popular": true
+                            }
+                          ],
+                          
+                            "mishka": [
+                              {
+                                "name": "Mouse Green Lion Turtle, 400mAh Battery Capacity",
+                                "price": 154990,
+                                "currency": "сум",
+                                "rating": 0,
+                                "availability": "out of stock",
+                                "new": true,
+                                "popular": false
+                              },
+                              {
+                                "name": "Mouse Green Lion Turtle, 400mAh Battery Capacity",
+                                "price": 154990,
+                                "currency": "сум",
+                                "rating": 0,
+                                "availability": "in stock",
+                                "new": true,
+                                "popular": true
+                              },
+                              {
+                                "name": "Mouse Green Lion Turtle, 400mAh Battery Capacity",
+                                "price": 154990,
+                                "currency": "сум",
+                                "rating": 0,
+                                "availability": "in stock",
+                                "new": false,
+                                "popular": true
+                              },
+                              {
+                                "name": "Mouse Green Lion Turtle, 400mAh Battery Capacity",
+                                "price": 154990,
+                                "currency": "сум",
+                                "rating": 0,
+                                "availability": "in stock",
+                                "new": true,
+                                "popular": false
+                              },
+                              {
+                                "name": "Mouse Green Lion Transparent Invisible Click",
+                                "price": 119990,
+                                "currency": "сум",
+                                "rating": 0,
+                                "availability": "in stock",
+                                "new": false,
+                                "popular": true
+                              },
+                              {
+                                "name": "Mouse Wireless mouse Xiaomi mouse lite 2 Global",
+                                "price": 114990,
+                                "currency": "сум",
+                                "rating": 0,
+                                "availability": "in stock",
+                                "new": true,
+                                "popular": true
+                              },
+                              {
+                                "name": "Mouse Green Lion G730, ABS Material, 400mAh Battery",
+                                "price": 84990,
+                                "currency": "сум",
+                                "rating": 0,
+                                "availability": "in stock",
+                                "new": false,
+                                "popular": false
+                              },
+                              {
+                                "name": "Mouse Green Lion G730, ABS Material, 400mAh Battery",
+                                "price": 84990,
+                                "currency": "сум",
+                                "rating": 0,
+                                "availability": "in stock",
+                                "new": true,
+                                "popular": true
+                              },
+                              {
+                                "name": "Mouse Green Lion G200, Lightweight, Compact",
+                                "price": 69990,
+                                "currency": "сум",
+                                "rating": 0,
+                                "availability": "in stock",
+                                "new": false,
+                                "popular": true
+                              },
+                              {
+                                "name": "Mouse Apple iPhone 8/iPhone 7G Transparent",
+                                "price": 11990,
+                                "currency": "сум",
+                                "rating": 0,
+                                "availability": "in stock",
+                                "new": true,
+                                "popular": false
+                              },
+                              {
+                                "name": "Mouse Xiaomi Redmi Note 13 Pro 4G Transparent White",
+                                "price": 11990,
+                                "currency": "сум",
+                                "rating": 0,
+                                "availability": "in stock",
+                                "new": false,
+                                "popular": true
+                              }
+                            ],
+                              "routers": [
+                                {
+                                  "name": "Router WIFI Wi-Fi Xiaomi Router AX3200 Wi-Fi 6",
+                                  "price": 699990,
+                                  "currency": "сум",
+                                  "rating": 0,
+                                  "availability": "in stock",
+                                  "news": true,
+                                  "popular": true,
+                                  "image": "https://example.com/images/xiaomi-router-ax3200.jpg"
+                                },
+                                {
+                                  "name": "Router WIFI Wireless Wi-Fi signal amplifier Xiaomi M (Black)",
+                                  "price": 299990,
+                                  "currency": "сум",
+                                  "rating": 0,
+                                  "availability": "in stock",
+                                  "news": false,
+                                  "popular": true,
+                                  "image": "https://example.com/images/xiaomi-signal-amplifier-black.jpg"
+                                },
+                                {
+                                  "name": "Router WIFI Wireless Wi-Fi signal amplifier Xiaomi M (White)",
+                                  "price": 149990,
+                                  "currency": "сум",
+                                  "rating": 0,
+                                  "availability": "in stock",
+                                  "news": false,
+                                  "popular": false,
+                                  "image": "https://example.com/images/xiaomi-signal-amplifier-white.jpg"
+                                }
+                              ],  
+                                "cctv_cameras": [
+                                  {
+                                    "name": "Камеры видеонаблюдения Ezviz H9C Dual 2K 3mp+3mp",
+                                    "price": 899990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": true,
+                                    "popular": true,
+                                    "image": "https://example.com/images/ezviz-h9c-dual.jpg"
+                                  },
+                                  {
+                                    "name": "CCTV cameras Ezviz C6c 4K - Indoor Smart Home",
+                                    "price": 879990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": true,
+                                    "popular": false,
+                                    "image": "https://example.com/images/ezviz-c6c-4k.jpg"
+                                  },
+                                  {
+                                    "name": "CCTV cameras Ezviz CB2, 1080P wireless rechargeable",
+                                    "price": 799990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": false,
+                                    "popular": true,
+                                    "image": "https://example.com/images/ezviz-cb2-1080p.jpg"
+                                  },
+                                  {
+                                    "name": "CCTV cameras WiFi CCTV camera with recording",
+                                    "price": 799990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": false,
+                                    "popular": true,
+                                    "image": "https://example.com/images/wifi-cctv-camera.jpg"
+                                  },
+                                  {
+                                    "name": "Камеры видеонаблюдения Ezviz CS-H8C 4G (3MP)",
+                                    "price": 789990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": true,
+                                    "popular": false,
+                                    "image": "https://example.com/images/ezviz-cs-h8c-4g.jpg"
+                                  },
+                                  {
+                                    "name": "CCTV cameras Xiaomi Smart Camera C700",
+                                    "price": 779990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": false,
+                                    "popular": true,
+                                    "image": "https://example.com/images/xiaomi-c700.jpg"
+                                  },
+                                  {
+                                    "name": "CCTV cameras Smart outdoor Wi-Fi camera Ezviz",
+                                    "price": 759990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": false,
+                                    "popular": false,
+                                    "image": "https://example.com/images/smart-outdoor-ezviz.jpg"
+                                  },
+                                  {
+                                    "name": "CCTV cameras WiFi CCTV camera with recording",
+                                    "price": 719990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": false,
+                                    "popular": true,
+                                    "image": "https://example.com/images/wifi-cctv-camera-2.jpg"
+                                  },
+                                  {
+                                    "name": "CCTV cameras Ezviz CS-H8C (3MP) Original",
+                                    "price": 709990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": false,
+                                    "popular": false,
+                                    "image": "https://example.com/images/ezviz-cs-h8c.jpg"
+                                  },
+                                  {
+                                    "name": "CCTV cameras Xiaomi smart camera c300 dual",
+                                    "price": 699990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": false,
+                                    "popular": true,
+                                    "image": "https://example.com/images/xiaomi-c300.jpg"
+                                  },
+                                  {
+                                    "name": "CCTV cameras Ezviz H8 Pro, 5 MP Wi-Fi camera",
+                                    "price": 689990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": false,
+                                    "popular": false,
+                                    "image": "https://example.com/images/ezviz-h8-pro.jpg"
+                                  },
+                                  {
+                                    "name": "CCTV cameras Ezviz camera 4G with SIM",
+                                    "price": 679990,
+                                    "currency": "сум",
+                                    "rating": 0,
+                                    "availability": "in stock",
+                                    "news": true,
+                                    "popular": true,
+                                    "image": "https://example.com/images/ezviz-4g-sim.jpg"
+                                  }
+                                ]
+                              }
+                              
+                            
+                            
+                          
+                          
+                        
+                        
+                      
+                      
+                    
+                    
+                              
+                              
+                            
+                            
+                          
+                          
+                        
+                        
+                      
+                      
+                  
+                  
+              
+              
+          
+          
+      
+      
+  
+  
+  
