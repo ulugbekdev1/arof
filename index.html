@@ -11,7 +11,7 @@
 
 
 </head>
-<body>
+<body class="bg-base-200">
     <header class="w-[100%] h-12 bg-neutral flex items-center justify-around">
         <a class="text-white" href="map/index.html">Toshkent shahar, Malika savdo markazi A-18 do`kon</a>
         <div class="flex items-center gap-2">
@@ -57,16 +57,16 @@
                <img class="w-6" src="image/images (5).png" alt="">
             </div>
     </nav>
-    <div class="flex items-start">
-    <aside>
-        <ul class="menu bg-base-200 rounded-box w-72">
+    <div class="flex items-start gap-8 flex-wrap">
+    <aside class=" bg-white p-4 rounded-lg h-[700px] overflow-y-auto overflow-x-hidden ">
+        <ul class="menu  rounded-box w-72">
             
             <li>
               <details open>
                 <summary>Aksessuar</summary>
                 <ul>
                   <li><a href="Gilof/Gilof.html">Gilof</a></li>
-                  <li><a>USB kabel</a></li>
+               <button onclick="clickable">   <li><a href="http://localhost:3000/USB-cabels">USB kabel</a></li> </button>
                   <li><a>Quvvatlash qurilmasi</a></li>
                   <li><a>Kalonka</a></li>
                   <li>
@@ -213,17 +213,17 @@
   </li>
           </ul>
     </aside>
-    
-    <div class="swiper mySwiper w-full h-[300px] md:h-[500px]">
+    <div class="flex flex-col gap-8 w-9/12">
+    <div class="swiper mySwiper w-full h-[300px] md:h-[300px] rounded-lg">
       <div class="swiper-wrapper">
           <div class="swiper-slide">
-              <img src="https://source.unsplash.com/800x400/?nature" class="w-full h-full object-cover" alt="Slide 1">
+              <img src="image/bewa.webp" class="w-full h-full object-cover" alt="Slide 1">
           </div>
           <div class="swiper-slide">
-              <img src="https://source.unsplash.com/800x400/?city" class="w-full h-full object-cover" alt="Slide 2">
+              <img src="image/cashback.webp" class="w-full h-full object-cover" alt="Slide 2">
           </div>
           <div class="swiper-slide">
-              <img src="https://source.unsplash.com/800x400/?technology" class="w-full h-full object-cover" alt="Slide 3">
+              <img src="image/os.jpg" class="w-full h-full object-cover" alt="Slide 3">
           </div>
       </div>
       
@@ -232,10 +232,45 @@
       <!-- Navigation -->
       <div class="swiper-button-next"></div>
       <div class="swiper-button-prev"></div>
-  </div>
+    </div>
+    <div class="">
 
+      <div class="bg-white p-6 rounded-lg shadow-md w-100%">
+          <div class="flex gap-4">
+              <select id="brandSelect" class="w-1/3 border-2 border-green-500 px-4 py-2 rounded-lg">
+                  <option value="">Brand</option>
+                  <option value="Samsung">Samsung</option>
+                  <option value="Apple">Apple</option>
+                  <option value="Xiaomi">Xiaomi</option>
+              </select>
+
+              <select id="modelSelect" class="w-1/3 border-2 border-gray-300 px-4 py-2 rounded-lg text-gray-400" disabled>
+                  <option value="">Modul</option>
+              </select>
+  
+              
+              <button  class="w-1/3 bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600">Filter</button>
+          </div>
+          <div id="results" class="mt-6 text-gray-700"></div>
+      </div>
+      </div>
+      <div class="flex gap-3">
+      <img class="w-6" src="image/images (6).png" alt="">
+      <span class="font-bold text-2xl">Yangi mahsulotlar</span>
+    </div>
+    <span id="products" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+      
+    </div>
+    
+    <div class="flex gap-3">
+      <img class="w-6" src="image/images (6).png" alt="">
+      <span class="font-bold text-2xl">Ommabop mahsulotlar</span>
+    </div>
 
         </div>
+
+        
+
 
         <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
         <script>
@@ -254,6 +289,45 @@
                     prevEl: ".swiper-button-prev",
                 },
             });
+            const inputBox = document.getElementById("input-box");
+const listContainer = document.getElementById("list-container");
+
+function addTask(){
+    if(inputBox.value === ''){
+        alert("You must write something!");
+    } else{
+        let li = document.createElement("li");
+        li.innerHTML = inputBox.value;
+        listContainer.appendChild(li);
+        let span = document.createElement("span");
+        span.innerHTML = "\u00d7";
+        li.appendChild(span);
+    }
+    inputBox.value = "";
+    saveData();
+}
+
+listContainer.addEventListener("click", function(e){
+    if(e.target.tagName === "LI"){
+        e.target.classList.toggle("checked");
+    }
+    else if(e.target.tagName === "SPAN"){
+        e.target.parentElement.remove();
+        saveData();
+    }
+},false);
+
+
+function saveData() {
+    localStorage.setItem("data", listContainer.innerHTML);
+}
+
+function showTask(){
+    listContainer.innerHTML = localStorage.getItem("data");
+
+}
+showTask();
+
         </script>
     <script src="script.js"></script>
 </body>
