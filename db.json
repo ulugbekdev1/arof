@@ -1611,8 +1611,101 @@
                                     "popular": true,
                                     "image": "https://example.com/images/ezviz-4g-sim.jpg"
                                   }
-                                ]
-                              }
+                                ],
+                                  "new_products": [
+                                    {
+                                      "id": 6177,
+                                      "name": "Ekran Samsung Galaxy J7 2015 (J700F) Oled-2 Oltin",
+                                      "price": 99990,
+                                      "currency": "so'm",
+                                     "stars": 4.5,
+                                     "reviews": 25,
+                                      "new": true,
+                                      "popular": true,
+                                      "image": "https://aros.uz/_next/image?url=https%3A%2F%2Faros-bucket.s3.amazonaws.com%2Fproduction%2F2025%2F3%2F11%2F95eb484e-891a-4087-8c8c-8a08f5953423.webp%3FAWSAccessKeyId%3DAKIAUY422EVVQQ73TP6V%26Signature%3DBU8zH4ZUGrXfXjv9%252BelGLAfy6f0%253D%26Expires%3D1741840809&w=1920&q=75"
+                                    },
+                                    {
+                                      "id": 6176,
+                                      "name": "Uskunalar V42 silikon mikroskop tagligi va aksessuarlar uchun",
+                                      "price": 34990,
+                                      "currency": "so'm",
+                                      "rating": 0,
+                                      "new": true,
+                                      "popular": false,
+                                      "image": "https://aros.uz/_next/image?url=https%3A%2F%2Faros-bucket.s3.amazonaws.com%2Fproduction%2F2025%2F3%2F6%2F2247ad79-6cef-4adb-b58a-f066851e1910.webp%3FAWSAccessKeyId%3DAKIAUY422EVVQQ73TP6V%26Signature%3DkU9wfdwZT4wft9uCeWXjJduCaVM%253D%26Expires%3D1741840955&w=1920&q=75"
+                                    },
+                                    {
+                                      "id": 6175,
+                                      "name": "Uskunalar Yuan YX 369 atvertka Original",
+                                      "price": 29990,
+                                      "currency": "so'm",
+                                      "rating": 0,
+                                      "new": false,
+                                      "popular": true,
+                                      "image": "https://aros.uz/_next/image?url=https%3A%2F%2Faros-bucket.s3.amazonaws.com%2Fproduction%2F2025%2F3%2F6%2Fdc538883-4292-4976-bb8d-c4bd032e7e73.webp%3FAWSAccessKeyId%3DAKIAUY422EVVQQ73TP6V%26Signature%3Dr5KqxzXjTEbRGjEklIwNLaR%252FR04%253D%26Expires%3D1741841002&w=1920&q=75"
+                                    },
+                                    {
+                                      "id": 6178,
+                                      "name": "Uskunalar V77 silikon mikroskop tagligi va aksessuarlar uchun",
+                                      "price": 84990,
+                                      "currency": "so'm",
+                                      "rating": 0,
+                                      "new": false,
+                                      "popular": false,
+                                      "image": "https://aros.uz/_next/image?url=https%3A%2F%2Faros-bucket.s3.amazonaws.com%2Fproduction%2F2025%2F3%2F6%2Fcaf9eddb-fb7d-4939-99ef-32bbdc0620e4.webp%3FAWSAccessKeyId%3DAKIAUY422EVVQQ73TP6V%26Signature%3DyopMHu66TwH517KuwmgcT0v6pcI%253D%26Expires%3D1741841036&w=1920&q=75"
+                                    },
+                                        {
+                                          "id": 1,
+                                          "name": "Uskunalar V70 silikon mikroskop tagligi va aksessuarlar uchun",
+                                          "price": 74990,
+                                          "currency": "so'm",
+                                          "rating": 5,
+                                          "reviews": 0,
+                                          "new": false,
+                                          "popular": true,
+                                          "image": "https://aros.uz/_next/image?url=https%3A%2F%2Faros-bucket.s3.amazonaws.com%2Fproduction%2F2025%2F3%2F6%2F8f630ab3-1fda-4b9e-8cd8-0852d5830c8a.webp%3FAWSAccessKeyId%3DAKIAUY422EVVQQ73TP6V%26Signature%3Dfi%252BtH%252FNto9%252BbRHmnTB6ETUDsWzA%253D%26Expires%3D1741851674&w=1920&q=75"
+                                        },
+                                        {
+                                          "id": 2,
+                                          "name": "Uskunalar V51 silikon mikroskop tagligi va aksessuarlar uchun",
+                                          "price": 64990,
+                                          "currency": "so'm",
+                                          "rating": 5,
+                                          "reviews": 0,
+                                          "new": false,
+                                          "popular": false,
+                                          "image": "https://aros.uz/_next/image?url=https%3A%2F%2Faros-bucket.s3.amazonaws.com%2Fproduction%2F2025%2F3%2F6%2Fcefc4ef5-4488-4d53-b8c0-240b1d9c3119.webp%3FAWSAccessKeyId%3DAKIAUY422EVVQQ73TP6V%26Signature%3DYIc4gebNhkk3hI%252F%252BTzQgGOTdArg%253D%26Expires%3D1741851708&w=1920&q=75"
+                                        },
+                                        {
+                                          "id": 3,
+                                          "name": "Uskunalar V53 silikon mikroskop tagligi va aksessuarlar uchun",
+                                          "price": 44990,
+                                          "currency": "so'm",
+                                          "rating": 5,
+                                          "reviews": 0,
+                                          "new": true,
+                                          "popular": false,
+                                          "image": "https://aros.uz/_next/image?url=https%3A%2F%2Faros-bucket.s3.amazonaws.com%2Fproduction%2F2025%2F3%2F6%2Fbc8e954e-86d9-47a6-94b8-941f5f241f8a.webp%3FAWSAccessKeyId%3DAKIAUY422EVVQQ73TP6V%26Signature%3D4GD7gj4JRrlRzUj%252BYrcslaxv42o%253D%26Expires%3D1741851735&w=1920&q=75"
+                                        },
+                                        {
+                                          "id": 4,
+                                          "name": "Uskunalar V65 silikon mikroskop tagligi va aksessuarlar uchun",
+                                          "price": 44990,
+                                          "currency": "so'm",
+                                          "rating": 5,
+                                          "reviews": 0,
+                                          "new": false,
+                                      "popular": false,
+                                      "image": "https://aros.uz/_next/image?url=https%3A%2F%2Faros-bucket.s3.amazonaws.com%2Fproduction%2F2025%2F3%2F6%2Faba31a12-18d1-4c84-8878-0bd8f91afdea.webp%3FAWSAccessKeyId%3DAKIAUY422EVVQQ73TP6V%26Signature%3DL34TCq24KhF0eJ2iiKpdkLM%252BK68%253D%26Expires%3D1741851764&w=1920&q=75"
+                                        }
+                                      ]
+                                    }
+                                    
+                                  
+                                  
+                                
+                              
+                              
                               
                             
                             
