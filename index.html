@@ -66,7 +66,7 @@
                 <summary>Aksessuar</summary>
                 <ul>
                   <li><a href="Gilof/Gilof.html">Gilof</a></li>
-               <button onclick="clickable">   <li><a href="http://localhost:3000/USB-cabels">USB kabel</a></li> </button>
+                  <li><a onclick="" href="">USB kabel</a></li> 
                   <li><a>Quvvatlash qurilmasi</a></li>
                   <li><a>Kalonka</a></li>
                   <li>
@@ -307,15 +307,6 @@ function addTask(){
     saveData();
 }
 
-listContainer.addEventListener("click", function(e){
-    if(e.target.tagName === "LI"){
-        e.target.classList.toggle("checked");
-    }
-    else if(e.target.tagName === "SPAN"){
-        e.target.parentElement.remove();
-        saveData();
-    }
-},false);
 
 
 function saveData() {
